@@ -1,0 +1,4 @@
+.hv:hover{
+    transform: scale(1.20);
+    transition: transform 1s linear;
+}
